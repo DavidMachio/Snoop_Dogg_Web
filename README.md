@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Snoop Dogg Music</h1>
+<h1>Snoop Dogg Music</h1>
 
 ![Seccion con imagen de portada](https://github.com/DavidMachio/Snoop_Dogg_Web/assets/135691621/4bca45a1-7bf3-4c13-8844-1c280c5789c9)
 
@@ -11,4 +11,12 @@
 
 Snoop Dogg es una de mis primeras prácticas y proyecto de clase, un ejemplo de web muy básico sin funcionalidades que no sean enlaces a las páginas originales y redes sociales del artista.
 Muy contento con el resultado teniendo en cuenta que empecé sin saber de la existencia de HTML y CSS.
+
+
+
+![visual](https://github.com/DavidMachio/Snoop_Dogg_Web/assets/135691621/c75fcc89-2de9-489a-8c3d-1915d3f4e63a)
+![html](https://github.com/DavidMachio/Snoop_Dogg_Web/assets/135691621/9ed5eff1-f21b-4393-8987-361cefac6b83)
+![css](https://github.com/DavidMachio/Snoop_Dogg_Web/assets/135691621/8d209a03-4352-44a7-b1f8-2eb6f2e24115)
+
+
 </div>
