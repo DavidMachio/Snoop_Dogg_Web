@@ -9,6 +9,6 @@
 ![Captura de video como cierre de la web y enlaces a las redes sociales](https://github.com/DavidMachio/Snoop_Dogg_Web/assets/135691621/32bf3ddd-550f-4dc0-a3ac-369c44488c03)
 
 
-Snoop Dogg es una de mis primeras prácticas y proyecto de clase, un ejemplo de web muy basico sin funcionalidades que no sean enlaces con las paginas originales y redes sociales del artista.
-Muy contento con el resultado teniendo en cuenta que empecé sin saber de la existia de HTML y CSS.
+Snoop Dogg es una de mis primeras prácticas y proyecto de clase, un ejemplo de web muy básico sin funcionalidades que no sean enlaces a las páginas originales y redes sociales del artista.
+Muy contento con el resultado teniendo en cuenta que empecé sin saber de la existencia de HTML y CSS.
 </div>
