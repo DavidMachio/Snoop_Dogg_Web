@@ -131,7 +131,7 @@ main {
   font-size: 30px;
 }
 .merchandise {
-  align-self: center;
+  align-content: center;
 }
 
 .merchandise ul {
